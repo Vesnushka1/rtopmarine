@@ -1,0 +1,81 @@
+@media screen and (max-width:768px) {
+
+    .header {
+        display: none;
+    }
+
+    .footer {
+        display: none;
+    }
+
+    .section-questions {
+        padding: 32px 28px;
+        margin-top: 160px;
+
+    }
+
+    .section-bank-req {
+        padding: 0 22px;
+    }
+
+    .section-questions__photo {
+        display: none;
+    }
+
+    .inp-name,
+    .inp-number {
+        width: 28vw;
+        margin-right: 16px;
+    }
+
+    .h2-cont {
+        padding: 0 0 0 21px;
+        margin: 0 0 30px 0;
+    }
+
+    .loc-nav {
+        padding: 0 0 0 21px;
+        margin: 30px 0 20px 0;
+    }
+
+    .inp-send-desktop {
+        width: 25vw;
+        margin: 0;
+    }
+
+    .map-desktop {
+        display: none;
+    }
+
+    .map-tablet {
+        display: block;
+    }
+
+    .section-location {
+        padding: 0 0 0 23px;
+    }
+
+    .h1-quest {
+        margin: 0;
+        font-size: 28px;
+    }
+
+    .p-quest {
+        margin: 5px 0 28px 0;
+        font-size: 12px;
+    }
+
+    .checkbox-label::before {
+        width: 30px;
+        height: 30px;
+        top: 2px;
+
+    }
+
+    .checkbox-label::after {
+        width: 30px;
+        height: 30px;
+        top: 2px;
+    }
+
+}
